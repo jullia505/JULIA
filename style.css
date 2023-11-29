@@ -5,9 +5,16 @@ font-size: xx-large;
 }
 
 body{ 
-background-color: rgb(17, 16, 16);
-
+background: #CCCCCC
+    background-color rgb(17, 16, 16);
 }
+
+#banner{
+width: 100%;
+height: 100px;
+}
+
+
 
 p{
 color: rgb(255, 255, 255);
